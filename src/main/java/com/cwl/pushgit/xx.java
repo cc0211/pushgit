@@ -9,5 +9,6 @@ package com.cwl.pushgit;
 public class xx {
     public static void main(String[] args) {
         System.out.println("helli");
+        System.out.println("hellixxxxx");
     }
 }
